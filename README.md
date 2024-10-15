@@ -50,6 +50,8 @@ yarn dev
 npm run dev
 ```
 
+For signing-up:
 http://localhost:3000/sign_up
 
+For signing-in:
 http://localhost:3000/sign_in
